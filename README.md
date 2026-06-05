@@ -576,7 +576,7 @@ Example comparison reports and generated graphs.
 
 # Author
 
-**Sushant Kumar**
+**Sushant Kumar Khobian**
 
 B.E. Computer Science & Engineering (IoT, Blockchain & Cybersecurity)
 
