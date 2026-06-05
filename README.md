@@ -574,6 +574,12 @@ Example comparison reports and generated graphs.
 
 ---
 
+# Screenshot
+
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/73c3c069-3dc4-4c05-bdea-4b7e21d5feca" />
+
+---
+
 # Author
 
 **Sushant Kumar Khobian**
