@@ -163,9 +163,8 @@ AirSim-Drone-Navigation/
 │   └── advanced_drone_navigation_analytics3.csv
 │
 ├── sample_results/
-│   └── results13/
-│
-└── screenshots/
+    └── results13/
+
 ```
 
 ---
